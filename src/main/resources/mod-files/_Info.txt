@@ -1,0 +1,7 @@
+VERSION: "1",
+GAME_VERSION_MAJOR: 69,
+GAME_VERSION_MINOR: 0,
+NAME: "Be Fruitful and Multiply",
+DESC: "Adds a crude natural reproduction mechanic.",
+AUTHOR: "Cairen",
+INFO: "Adds a crude natural reproduction mechanic.",
