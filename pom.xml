@@ -20,9 +20,9 @@
         <!-- These settings will go into the mods _Info.txt file -->
         <mod.version>${project.version}</mod.version>
         <mod.name>Be Fruitful and Multiply</mod.name>
-        <mod.description>...fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground.</mod.description>
+        <mod.description>Adds a crude natural reproduction mechanic.</mod.description>
         <mod.author>cairen</mod.author>
-        <mod.info>Adds a simple reproduction mechanic.</mod.info>
+        <mod.info>Adds a crude natural reproduction mechanic.</mod.info>
 
         <!--
             This is the game version you are currently using. When the game updates:
